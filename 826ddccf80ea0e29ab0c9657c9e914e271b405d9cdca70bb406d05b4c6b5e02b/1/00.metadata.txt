@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1539227468,"name":"This bad boy can logout so many users","publickey":"ea680a28ad576d9b599972c4ea45018e913098111c36c75e2ae8951437de04a6","signature":"ed6fe4482ea6342c5bf7c7110244cf266fb0fb713f8f6ac435d8285951a94f6e9817e8fc96f6b6eba21e5d4cf44cb6d7645265ff62a2014633149feff13a0604"}
