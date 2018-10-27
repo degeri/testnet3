@@ -1,1 +1,1 @@
-{"version":1,"timestamp":1540659861,"name":"test for bugs","publickey":"cbd91cadaa60827236a485d88e231c98fb61b19fcbf8c4f928d99c0696d37975","signature":"b252aa8545395ff95e0eacbe161695d325cb2cbc2233f34ebe7a05202da667f472cabcadfdd6c574c3ac3d9540e06db9dd7ac7265b48a5d9eeadf492e2483900"}
+{"version":1,"timestamp":1540660693,"name":"test for bugs","publickey":"cbd91cadaa60827236a485d88e231c98fb61b19fcbf8c4f928d99c0696d37975","signature":"99fc6e03b70f22609ce24c88bd96d596e5a746fcbc0a08b9113d111097a8d04186ef1e0e96c898bfd3df1da46424214a33b7bb5640123aa41ba173c62e91f008"}
