@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1541703277,"name":"Decrediton test proposal","publickey":"ffd9456c128f9f582093fea9a1cb923dff1ed76398bd12dbd537cd86b9d32746","signature":"9611ff0e8ebece2acffe75f91ee5e9e6ab9e5379f7a4cf8c55bfe6716b8b2ade90e327fa18aa6fdbccefa96f8bed0810a85ba864ee3a272a1e4886d486878e01"}
