@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1541712853,"name":"another proposal for decrediton","publickey":"ffd9456c128f9f582093fea9a1cb923dff1ed76398bd12dbd537cd86b9d32746","signature":"11bad1321ab4d3a5441cbad6563fb5dbe92d14635942540d1f1b8c04d85d348d674ee2586db17fe09c9b586ac15dbdff687e25e8e42eb6518df780ca5fc44803"}
