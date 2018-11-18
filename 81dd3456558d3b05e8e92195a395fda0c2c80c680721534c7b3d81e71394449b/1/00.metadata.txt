@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1542531792,"name":"testproposal","publickey":"ea680a28ad576d9b599972c4ea45018e913098111c36c75e2ae8951437de04a6","signature":"07e7cfac4cfe22e706d0b6466dfaec56df804e16f157a7fa348e6c630e674d8faa0bd7c0feda912b0c81fc72f6e051de350ad8a5edc5cfc21c1ae74d807b1206"}
