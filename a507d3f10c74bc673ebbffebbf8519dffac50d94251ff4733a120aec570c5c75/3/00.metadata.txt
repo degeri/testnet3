@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1542609287,"name":"filenameaffectsimagesize","publickey":"ea680a28ad576d9b599972c4ea45018e913098111c36c75e2ae8951437de04a6","signature":"510111c9ac5df82a0896d2053e7906ed18fe9f0c28dae01b3b59c7a7823c0f455b4c782e7c20bb73d7bb25fd009da1fdd6a023a50f77b5b61b85a185ac2c2007"}
