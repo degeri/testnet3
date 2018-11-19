@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1542650552,"name":"New proposal","publickey":"6e32d270786c161f9cfcbe139cf7a0f95aacfd2807bcd1401408c447e526ce05","signature":"66cce01a78792dde573cbd8a647c39c376fbb963d697569f0542341edb84c7aeb329f957403a8afb88bad7c8f7c7d94372b83d0ace85a9080c0ec34a6596080d"}
