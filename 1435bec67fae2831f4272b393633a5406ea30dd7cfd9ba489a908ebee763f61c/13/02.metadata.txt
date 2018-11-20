@@ -1,1 +1,1 @@
-{"version":1,"adminpubkey":"ea680a28ad576d9b599972c4ea45018e913098111c36c75e2ae8951437de04a6","newstatus":4,"timestamp":1542424588}
+{"version":1,"adminpubkey":"ea680a28ad576d9b599972c4ea45018e913098111c36c75e2ae8951437de04a6","newstatus":4,"timestamp":1542424588}{"version":1,"adminpubkey":"ea680a28ad576d9b599972c4ea45018e913098111c36c75e2ae8951437de04a6","newstatus":6,"statuschangemessage":"\u003ctes\u003c\u003c\u003c/?Q\u003eQ\u003eQQW","timestamp":1542738905}
