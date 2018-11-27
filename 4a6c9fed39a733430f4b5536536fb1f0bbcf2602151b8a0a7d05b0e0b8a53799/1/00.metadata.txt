@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1543340194,"name":"test notification","publickey":"ffd9456c128f9f582093fea9a1cb923dff1ed76398bd12dbd537cd86b9d32746","signature":"75830456d3cb533abedd976dd2dc8c46c0f98b63088f2016a14203507eac076f0b67ade5fba878fef4d2e701fc408c5b43b631e70b2ca8ff1a627686fd52ff03"}
