@@ -1,1 +1,1 @@
-{"version":1,"adminpubkey":"6e32d270786c161f9cfcbe139cf7a0f95aacfd2807bcd1401408c447e526ce05","newstatus":4,"timestamp":1546444045}
+{"version":1,"adminpubkey":"6e32d270786c161f9cfcbe139cf7a0f95aacfd2807bcd1401408c447e526ce05","newstatus":4,"timestamp":1546444045}{"version":1,"adminpubkey":"6e32d270786c161f9cfcbe139cf7a0f95aacfd2807bcd1401408c447e526ce05","newstatus":6,"statuschangemessage":"Because it's lame","timestamp":1547036578}
