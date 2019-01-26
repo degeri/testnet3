@@ -1,2 +1,2 @@
-![a](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)\
+Bug bounty Test - quikke "';
 <iframe src=https://quintevaningh.com></iframe>
