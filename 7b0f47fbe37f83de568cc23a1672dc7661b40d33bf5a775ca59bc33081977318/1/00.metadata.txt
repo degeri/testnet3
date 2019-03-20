@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1553102823,"name":"Start this vote","publickey":"c21de596ff8a333a0df019abe6eac624d22da630e2fe0afc909b41f4c911594b","signature":"0adfc9be63744fac0f89c862840089be4f3570d7591108e96bc20a317ee10c18fd3938b4f2b4e020011d1d391029da054ca4fc95e7003889a46c1a0b4f08c90a"}
