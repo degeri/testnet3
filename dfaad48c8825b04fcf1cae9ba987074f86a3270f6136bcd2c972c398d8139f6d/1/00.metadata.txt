@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1553179099,"name":"Fund rocket for first stakey moon mission","publickey":"ea680a28ad576d9b599972c4ea45018e913098111c36c75e2ae8951437de04a6","signature":"fd1cac5448af121970dae4ab94bbc668492e95d6cbca6e3b118364795295a0a6a79e30eb2838bcfaa4e2bd1321f297a9f6262426f18bfe3c4d3bbc83dc7aa302"}
