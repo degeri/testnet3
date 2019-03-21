@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1553197943,"name":"Create dcrd shirts for pets","publickey":"69715f134c963af0380e78515a459d88c20acccc46cfdbb79b925833cff5b463","signature":"df12aad27a5c8f1c03fe331c74bd904390ff07bbc398ad4235b6d6ea2641b4818509e8b38c8a4f1d8a3a6bb1ac8a24b5e8c67f67f8d67e38db299ccbd0a05503"}
