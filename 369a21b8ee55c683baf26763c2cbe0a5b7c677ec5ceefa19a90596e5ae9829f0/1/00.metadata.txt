@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1553192231,"name":"this is a great test proposal","publickey":"1336c16a6c98f2b8896f039f751a6c0d73f2971daec2bd1948a6254224faeece","signature":"083b3f60ba8455ea782c09bba38220a2226dda99495be444d7e0dfeff2ee40d93676bd764260b279e0ae48520eb0575a8c3899de1d498719e2da911dc24b3d0b"}
