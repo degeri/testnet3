@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1555619414,"name":"test proposal dont censor","publickey":"ea680a28ad576d9b599972c4ea45018e913098111c36c75e2ae8951437de04a6","signature":"cd64998e888adacdcac9b64cd6c9616adeb9fef4225f675a47c8d0cea017f06c1301fc9fc42e90e43fda610d7c0e1952bea177e039182b86112221f6ef277b00"}
