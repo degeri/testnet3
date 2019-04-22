@@ -1,1 +1,1 @@
-{"version":1,"adminpubkey":"a83eda8fa0849ef8410f92dd7a01c4aa1982e2ddf1396181f43190a2fdd1fa4c","newstatus":4,"timestamp":1555617589}
+{"version":1,"adminpubkey":"a83eda8fa0849ef8410f92dd7a01c4aa1982e2ddf1396181f43190a2fdd1fa4c","newstatus":4,"timestamp":1555617589}{"version":1,"adminpubkey":"c21de596ff8a333a0df019abe6eac624d22da630e2fe0afc909b41f4c911594b","newstatus":6,"statuschangemessage":"bad prop","timestamp":1555942497}
