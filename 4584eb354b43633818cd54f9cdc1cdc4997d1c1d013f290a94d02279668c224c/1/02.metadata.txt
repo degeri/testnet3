@@ -1,0 +1,1 @@
+{"version":1,"adminpubkey":"16718a8e061ef424c6fa4ab74a991d9791e627e4d9e04701a31f39d5419124f0","newstatus":4,"timestamp":1557416486}
